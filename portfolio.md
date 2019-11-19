@@ -10,7 +10,7 @@ Hello! I am Karinna Lopez. I am a designer for functional, captivating online ex
 
 ## Selected Samples
 **[Eastern Washington University](https://www.ewu.edu/)**  
-*CMS Migration, Information Architecture, Quality Assurance, Accessiblity*
+*CMS Migration, Information Architecture, Quality Assurance, Accessibility*
 * College of Business
 * College of Science, Technology, Engineering & Mathematics
 * College of Social Sciences
@@ -25,7 +25,7 @@ Hello! I am Karinna Lopez. I am a designer for functional, captivating online ex
 *Information Architecture*
 
 **[JFK Library Maps](https://projects.invisionapp.com/d/main?origin=v7#/projects/boards/6596359)**  
-*UX Research, Accessiblity*
+*UX Research, Accessibility*
 
 **Pet Fetch**  
 *Information Architecture, Prototyping*
