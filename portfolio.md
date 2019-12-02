@@ -11,6 +11,7 @@ Hello! I am Karinna Lopez. I am a designer for functional, captivating online ex
 ## Selected Samples
 **[Eastern Washington University](https://www.ewu.edu/)**  
 *CMS Migration, Information Architecture, Quality Assurance, Accessibility*
+* College of Arts, Letters & Education
 * College of Business
 * College of Science, Technology, Engineering & Mathematics
 * College of Social Sciences
