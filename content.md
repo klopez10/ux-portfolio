@@ -85,7 +85,7 @@ I would reassess the exhibition display.
 The outward-facing sides of the cards form the classic Bauhaus signet, which reflects various of the movement’s principles such as a minimalistic approach and pleasing aesthetic.
 ### EWU Downtown Student Gallery
 
-## Thank You
+## Thank You!
 I appreciate the time you took to review my portfolio.
 ### Contact Me
 * Karinna Lopez
