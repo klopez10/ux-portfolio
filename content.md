@@ -3,10 +3,10 @@
 ## Hello!  
 I am Karinna Lopez.  
 ### Get to Know Me
-I am a designer for functional, captivating online experiences.
-As a recent graduate from Eastern Washington University, I have a Bachelor of Design (BDes) along with a User Experience (UX) Certificate and Spanish minor. I am bilingual in both English and Spanish; proficiencies include understanding, reading, writing, and speaking.
-My process incorporates user research, content modeling, prototyping, usability testing along with identifying the needs and behaviors of users to satisfy their goals as well as client and development goals. Skill proficiency can be demonstrated in graphic design, user interface, and prototyping tools.
-I thrive on challenges. I am a question-asker, an answer-seeker. I innovatively strategize and demonstrate a level of attention to detail that is unparalleled. I accept personal accountability and am deeply committed to the highest standard of positive work ethic and humility to ensure quality.
+I am a designer for functional, captivating online experiences.  
+As a recent graduate from Eastern Washington University, I have a Bachelor of Design (BDes) along with a User Experience (UX) Certificate and Spanish minor. I am bilingual in both English and Spanish; proficiencies include understanding, reading, writing, and speaking.  
+My process incorporates user research, content modeling, prototyping, usability testing along with identifying the needs and behaviors of users to satisfy their goals as well as client and development goals. Skill proficiency can be demonstrated in graphic design, user interface, and prototyping tools.  
+I thrive on challenges. I am a question-asker, an answer-seeker. I innovatively strategize and demonstrate a level of attention to detail that is unparalleled. I accept personal accountability and am deeply committed to the highest standard of positive work ethic and humility to ensure quality.  
 I am deeply interested in making connections between us and the present digital domain, along with having a focus on the future we are continually building for ourselves. This is a path of life-long learning, which I am consistently taking the initiative to learn and passing it along for the benefit of others.
 
 ## Eastern Washington University  
