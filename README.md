@@ -1,2 +1,2 @@
-# ux-portfolio
-UX Portfolio
+# UX Portfolio
+Ongoing repository for my UX portfolio.
